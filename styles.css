@@ -228,7 +228,6 @@ form{
 	width: 75%;
 	min-height: 12rem;
 	margin: auto;
-	border: 2pt solid black;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
@@ -262,7 +261,6 @@ footer section{
 	margin: auto;
 	display: flex;
 	height: 18rem;
-	border: 2pt solid black;
 }
 footer section h2{
 	font-size: 3rem;
@@ -278,7 +276,6 @@ footer section article{
 	width: 150pt;
 	margin-left: auto;
 	margin-right: auto;
-	border: 2pt solid black;
 }
 footer section article ul li{
 	padding-top: 2rem;
@@ -287,4 +284,3 @@ footer section article ul li a{
 	text-decoration: none;
 	color: #2D838D;
 }
-/* media queries go here! */
